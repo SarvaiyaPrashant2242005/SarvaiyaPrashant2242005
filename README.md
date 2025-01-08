@@ -13,6 +13,8 @@
 - 📫 How to reach me **prashanthere90@gmail.com**
 
 - 💬 Ask me about **C, Java, Flutter, Php, SQL, Machine Learning**
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvaiyaprashant2242005" alt="sarvaiyaprashant2242005" /></a> </p>
 
 
