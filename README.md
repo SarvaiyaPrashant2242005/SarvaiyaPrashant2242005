@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Node, MongoDB, for better web development skills**
 
-- 🚀 Looking to Contribute: **ctively seeking opportunities to contribute to Open-Source Projects**
+- 🚀 Looking to Contribute: **Actively seeking opportunities to contribute to Open-Source Projects**
 
 - 📫 How to reach me **prashanthere90@gmail.com**
 
