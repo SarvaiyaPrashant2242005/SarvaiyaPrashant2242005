@@ -1,8 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-
 <h1 align="center">Hi 👋, I'm Prashant Sarvaiya</h1>
 <h3 align="center">A Passionate Programmer aspiring to become a Web and App Development Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvaiyaprashant2242005&label=Profile%20views&color=0e75b6&style=flat" alt="sarvaiyaprashant2242005" /> </p>
 
